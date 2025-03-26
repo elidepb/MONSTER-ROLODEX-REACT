@@ -115,7 +115,6 @@ Monsters Rolodex is a React-based web application that allows you to search and 
 
 ## Screenshots / Capturas de Pantalla
 
-Place your screenshots in the `./screenshots` folder and reference them in this README.
 
 ![Home Page](./screenshots/homepage.png)
 *Home Page of Monsters Rolodex*
