@@ -177,5 +177,3 @@ No dudes en contactarme si tienes preguntas o sugerencias.
 Happy coding! 🚀
 ¡Feliz programación! 🎉
 ```
-
-Este README combina información técnica y visual, e incluye secciones en inglés y español para mayor accesibilidad. Puedes agregar o modificar secciones según lo requiera tu proyecto.
